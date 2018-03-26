@@ -8,6 +8,7 @@ public class Hello {
 		int b=20,d=50;
 		int c=a+b;
 		System.out.println("addtion of two number"+":"+c);
+		System.out.println("addtion of two number"+":"+c);
 		c=c+d;	
 		System.out.println("addtion of two number"+":"+c);
 
